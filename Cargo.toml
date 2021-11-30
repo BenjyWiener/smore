@@ -3,7 +3,7 @@ name = "smore"
 version = "0.0.0"
 edition = "2021"
 authors = ["Benjy Wiener <info@BenjyWiener.com>"]
-description = ""
+description = "A marshmallow-inspired serde-based validation framework"
 repository = "https://github.com/BenjyWiener/smore"
 license = "MIT"
 
