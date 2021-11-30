@@ -1,0 +1,10 @@
+[package]
+name = "smore"
+version = "0.0.0"
+edition = "2021"
+authors = ["Benjy Wiener <info@BenjyWiener.com>"]
+description = ""
+repository = "https://github.com/BenjyWiener/smore"
+license = "MIT"
+
+[dependencies]
